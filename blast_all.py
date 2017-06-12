@@ -23,11 +23,14 @@ for f in in_files:
             stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, stderr = blast_cmd.communicate()
 	# Clean output and append to results list.
-        print(stderr)
-        if stdout != '' and stdout != '\n' and stdout != None:
-            hits.append(stdout.decode('UTF8').strip('\n'))
+        #print(stderr)
+        hit = stdout.decode('UTF8').strip('\n')
+        #print('--------------------')
+        #print(not hit)
+        if hit:
+            hits.append(hit)
         else:
-            with open('unmapped.fa', 'a') as unmapped:
+            with open('unmapped.fa', 'a+') as unmapped:
                 unmapped.write(s.id+'\n')
     outfile = 'blast-'+os.path.basename(f)
     with open(outfile, 'w') as out:

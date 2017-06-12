@@ -10,7 +10,7 @@ for f in in_files:
     hits = []
     for s in seqs:
         with open('sequence.fasta', 'w') as out:
-            out.write(s.id+'\n')
+            out.write('>'+s.id+'\n')
             out.write(str(s.seq))
         blast_cmd = subprocess.Popen([
             'blastn',
@@ -23,7 +23,8 @@ for f in in_files:
             stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, stderr = blast_cmd.communicate()
 	# Clean output and append to results list.
-        if stdout != '' and stdout != '\n' and stdout is not None:
+        print(stderr)
+        if stdout != '' and stdout != '\n' and stdout != None:
             hits.append(stdout.decode('UTF8').strip('\n'))
         else:
             with open('unmapped.fa', 'a') as unmapped:

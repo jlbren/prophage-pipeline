@@ -10,11 +10,10 @@ for f in in_files:
     hits = []
     for s in seqs:
         with open('sequence.fasta', 'w') as out:
-	    out.write(str(s.seq))
- 
+            out.write(str(s.seq))
         blast_cmd = subprocess.Popen([
             'blastn',
-            '-query', 
+            '-query',
             'sequence.fasta',
             '-db', 'Viral',
             '-outfmt', '10 qseqid stitle length pident bitscore',

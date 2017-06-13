@@ -1,0 +1,122 @@
+qseqid, stitle, length, pident, bitscore
+VIRSorter__21837_8_87_2_gene_353_gene_402-350945-381613-cat_5,ref|NC_003278.1| Pseudomonas phage phiCTX, complete genome,47,93.62,71.3
+VIRSorter__21837_8_87_2_gene_134_gene_195-133620-174486-cat_5,ref|NC_028955.1| Prochlorococcus phage P-TIM68, complete genome,32,96.88,54.7
+VIRSorter_ERR1203700_17957_2_23_4_gene_73_gene_116-74957-112005-cat_5,ref|NC_030933.1| Staphylococcus phage Stau2, complete genome,974,71.15, 207
+VIRSorter__21837_8_70_1_gene_1_gene_39-136-23418-cat_5,ref|NC_013646.1| Enterococcus phage phiFL1A, complete genome,3739,98.72,6637
+VIRSorter__21837_8_70_1_gene_1_gene_39-136-23418-cat_5,ref|NC_013646.1| Enterococcus phage phiFL1A, complete genome,1870,98.34,3277
+VIRSorter__21837_8_70_1_gene_1_gene_39-136-23418-cat_5,ref|NC_013646.1| Enterococcus phage phiFL1A, complete genome,1821,97.31,3090
+VIRSorter__21837_8_70_1_gene_1_gene_39-136-23418-cat_5,ref|NC_013646.1| Enterococcus phage phiFL1A, complete genome,740,91.49,1013
+VIRSorter__21837_8_70_1_gene_1_gene_39-136-23418-cat_5,ref|NC_013646.1| Enterococcus phage phiFL1A, complete genome,201,90.55, 265
+VIRSorter__21837_8_70_2_gene_159_gene_247-168847-259177-cat_5,ref|NC_013696.1| Enterococcus phage phiEf11, complete genome,1940,74.02, 741
+VIRSorter__21837_8_70_12_gene_30_gene_75-32502-62746-cat_5,ref|NC_013643.1| Enterococcus phage phiFL2A, complete genome,1471,97.82,2540
+VIRSorter__21837_8_70_12_gene_30_gene_75-32502-62746-cat_5,ref|NC_013643.1| Enterococcus phage phiFL2A, complete genome,1208,89.65,1531
+VIRSorter__21837_8_70_12_gene_30_gene_75-32502-62746-cat_5,ref|NC_013643.1| Enterococcus phage phiFL2A, complete genome,564,90.60, 723
+VIRSorter__21837_8_70_12_gene_30_gene_75-32502-62746-cat_5,ref|NC_013643.1| Enterococcus phage phiFL2A, complete genome,340,88.53, 407
+VIRSorter__21837_8_70_12_gene_30_gene_75-32502-62746-cat_5,ref|NC_013643.1| Enterococcus phage phiFL2A, complete genome,222,89.64, 279
+VIRSorter__21837_8_70_12_gene_30_gene_75-32502-62746-cat_5,ref|NC_013643.1| Enterococcus phage phiFL2A, complete genome,230,87.83, 263
+VIRSorter__21837_8_70_12_gene_30_gene_75-32502-62746-cat_5,ref|NC_013643.1| Enterococcus phage phiFL2A, complete genome,181,86.19, 196
+VIRSorter__21837_8_61_1_gene_868_gene_924-955951-1000503-cat_5,ref|NC_018279.1| Salmonella phage vB_SosS_Oslo, complete genome,1830,80.55,1391
+VIRSorter__21837_8_61_7_gene_11_gene_53-10046-46232-cat_5,ref|NC_010463.1| Enterobacteria phage Fels-2, complete genome,1197,82.12,1009
+VIRSorter__21837_8_61_7_gene_11_gene_53-10046-46232-cat_5,ref|NC_010463.1| Enterobacteria phage Fels-2, complete genome,204,93.14, 300
+VIRSorter__21837_8_61_7_gene_11_gene_53-10046-46232-cat_5,ref|NC_010463.1| Enterobacteria phage Fels-2, complete genome,100,93.00, 147
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,7883,87.40,8994
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,7706,86.65,8488
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,1959,79.94,1387
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,891,92.70,1280
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,1048,86.74,1149
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,1345,81.56,1090
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,491,95.72, 789
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,887,81.29, 691
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,246,91.06, 327
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,215,92.09, 303
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,58,96.55,97.1
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,62,93.55,91.6
+VIRSorter__21837_8_89_3_gene_8_gene_69-10129-52506-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,54,92.59,78.7
+VIRSorter_ERR1203761_17957_2_84_2_gene_121_gene_176-123131-163220-cat_5,ref|NC_030921.1| Gordonia phage Utz, complete genome,268,82.09, 220
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,12976,94.49,1.999e+04
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,8297,85.68,8619
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,666,95.35,1057
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,848,88.09, 981
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,592,88.34, 708
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,592,87.67, 680
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,418,85.17, 420
+VIRSorter__21837_8_54_4_gene_53_gene_113-53904-93650-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,32,100.00,60.2
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,11443,95.60,1.831e+04
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,10479,87.87,1.226e+04
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,2792,96.10,4542
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,1962,93.02,2859
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,505,89.90, 645
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,306,92.81, 438
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,446,78.48, 281
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,222,86.94, 233
+VIRSorter__21837_8_94_1_gene_167_gene_234-171923-215446-cat_5,ref|NC_007924.1| Lactobacillus phage KC5a, complete genome,58,89.66,73.1
+VIRSorter__16933_1_18_6_gene_18_gene_69-17164-60240-cat_5,ref|NC_005857.1| Klebsiella phage phiKO2, complete genome,7877,89.77,1.006e+04
+VIRSorter__16933_1_18_6_gene_18_gene_69-17164-60240-cat_5,ref|NC_005857.1| Klebsiella phage phiKO2, complete genome,6058,89.44,7616
+VIRSorter__16933_1_18_6_gene_18_gene_69-17164-60240-cat_5,ref|NC_005857.1| Klebsiella phage phiKO2, complete genome,2956,80.48,2235
+VIRSorter__16933_1_18_7_gene_2_gene_66-1609-52775-cat_5,ref|NC_010393.1| Phage Gifsy-2, complete genome,1400,80.14,1024
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,7883,87.40,8994
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,7706,86.65,8488
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,1959,79.94,1387
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,891,92.70,1280
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,1048,86.74,1149
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,1345,81.56,1090
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,491,95.72, 789
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,887,81.40, 697
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,246,91.06, 327
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,215,92.09, 303
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,58,96.55,97.1
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,62,93.55,91.6
+VIRSorter__21837_8_59_1_gene_9_gene_70-11450-53828-cat_5,ref|NC_000896.1| Lactobacillus prophage phiadh, complete genome,54,92.59,78.7
+VIRSorter__21837_8_78_1_gene_257_gene_310-275842-315214-cat_5,ref|NC_012753.1| Streptococcus phage 5093, complete genome,1491,88.46,1799
+VIRSorter__21837_8_78_1_gene_257_gene_310-275842-315214-cat_5,ref|NC_012753.1| Streptococcus phage 5093, complete genome,600,85.33, 616
+VIRSorter__21837_8_78_1_gene_257_gene_310-275842-315214-cat_5,ref|NC_012753.1| Streptococcus phage 5093, complete genome,397,86.90, 446
+VIRSorter__21837_8_78_1_gene_257_gene_310-275842-315214-cat_5,ref|NC_012753.1| Streptococcus phage 5093, complete genome,226,90.71, 300
+VIRSorter__21837_8_71_1_gene_22_gene_74-20818-62630-cat_5,ref|NC_007056.1| Staphylococcus phage EW, complete genome,1102,71.60, 244
+VIRSorter__21837_8_83_7_gene_25_gene_46-41469-58757-cat_5,ref|NC_024357.1| Streptococcus phage K13, complete sequence,911,97.26,1544
+VIRSorter_ERR1203642_17957_1_54_5_gene_50_gene_107-49162-89987-cat_5,ref|NC_004588.1| Streptococcus prophage 315.5, complete genome,34,100.00,63.9
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,8264,95.98,1.342e+04
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,731,93.57,1090
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,473,97.67, 811
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,431,95.59, 691
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,298,93.96, 449
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,276,94.20, 422
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,201,99.00, 361
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,182,98.90, 326
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,270,88.15, 320
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,172,98.26, 302
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,172,97.67, 296
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,177,93.79, 263
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,120,98.33, 209
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,128,91.41, 172
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,69,100.00, 128
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,60,100.00, 111
+VIRSorter__21837_8_55_1_gene_398_gene_454-437119-476990-cat_5,ref|NC_027398.1| Enterobacteria phage Sf101, complete genome,53,100.00,99.0
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,11185,97.11,1.886e+04
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,6294,95.12,9895
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,2787,97.27,4724
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,3241,78.25,2004
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,1736,80.99,1336
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,846,95.04,1323
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,792,89.90,1020
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,1515,78.81, 992
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,45,100.00,84.2
+VIRSorter__21837_8_55_1_gene_795_gene_894-837647-927982-cat_5,ref|NC_001416.1| Enterobacteria phage lambda, complete genome,45,97.78,78.7
+VIRSorter__21837_8_55_2_gene_81_gene_129-91529-136027-cat_5,ref|NC_004745.1| Yersinia phage L-413C, complete genome,9394,97.96,1.628e+04
+VIRSorter__21837_8_55_2_gene_81_gene_129-91529-136027-cat_5,ref|NC_004745.1| Yersinia phage L-413C, complete genome,6904,95.97,1.120e+04
+VIRSorter__21837_8_55_2_gene_81_gene_129-91529-136027-cat_5,ref|NC_004745.1| Yersinia phage L-413C, complete genome,3959,96.19,6475
+VIRSorter__21837_8_55_2_gene_81_gene_129-91529-136027-cat_5,ref|NC_004745.1| Yersinia phage L-413C, complete genome,3141,96.59,5208
+VIRSorter__21837_8_55_2_gene_81_gene_129-91529-136027-cat_5,ref|NC_004745.1| Yersinia phage L-413C, complete genome,1783,91.42,2427
+VIRSorter__21837_8_55_2_gene_81_gene_129-91529-136027-cat_5,ref|NC_004745.1| Yersinia phage L-413C, complete genome,56,98.21,99.0
+VIRSorter__21837_8_84_5-circular_gene_2_gene_64-401-37893-cat_5,ref|NC_029025.1| Staphylococcus phage IME-SA4, complete genome,10795,78.90,7068
+VIRSorter__21837_8_84_5-circular_gene_2_gene_64-401-37893-cat_5,ref|NC_029025.1| Staphylococcus phage IME-SA4, complete genome,1141,89.40,1435
+VIRSorter__21837_8_84_5-circular_gene_2_gene_64-401-37893-cat_5,ref|NC_029025.1| Staphylococcus phage IME-SA4, complete genome,3748,72.81,1149
+VIRSorter__21837_8_84_5-circular_gene_2_gene_64-401-37893-cat_5,ref|NC_029025.1| Staphylococcus phage IME-SA4, complete genome,335,88.66, 405
+VIRSorter__21837_8_46_15_gene_1_gene_35-90-31851-cat_5,ref|NC_024148.1| Mycobacterium phage Phantastic, complete genome,29,100.00,54.7
+VIRSorter__21837_8_64_7_gene_12_gene_33-14033-31276-cat_5,ref|NC_024357.1| Streptococcus phage K13, complete sequence,911,97.26,1544
+VIRSorter__21837_8_69_1_gene_64_gene_132-72219-117076-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,1727,86.80,1912
+VIRSorter__21837_8_69_1_gene_64_gene_132-72219-117076-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,74,86.49,78.7
+VIRSorter__21837_8_69_1_gene_409_gene_474-401478-449559-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,5080,76.00,2451
+VIRSorter__21837_8_69_1_gene_409_gene_474-401478-449559-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,2026,79.96,1456
+VIRSorter__21837_8_69_1_gene_409_gene_474-401478-449559-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,696,85.20, 708
+VIRSorter__21837_8_69_1_gene_409_gene_474-401478-449559-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,940,79.15, 636
+VIRSorter__21837_8_69_1_gene_409_gene_474-401478-449559-cat_5,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,684,73.25, 235

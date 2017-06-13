@@ -1,0 +1,8 @@
+qseqid, stitle, length, pident, bitscore
+VIRSorter__21837_8_54_7_gene_32_gene_129-38491-130006-cat_6,ref|NC_007045.1| Staphylococcus phage PT1028, complete genome,2218,82.69,1958
+VIRSorter__21837_8_79_1_gene_266_gene_289-266515-281542-cat_6,ref|NC_004585.1| Streptococcus prophage 315.2, complete genome,98,86.73, 108
+VIRSorter__21837_8_79_2_gene_247_gene_326-274549-350495-cat_6,ref|NC_023503.1| Streptococcus phage 20617 complete prophage genome,1363,87.89,1594
+VIRSorter__21837_8_76_7_gene_37_gene_62-39701-59266-cat_6,ref|NC_028821.1| Staphylococcus phage StB20-like, complete genome,180,91.11, 243
+VIRSorter__21837_8_76_11_gene_5_gene_16-3660-11063-cat_6,ref|NC_029119.1| Staphylococcus phage SPbeta-like, complete genome,786,86.13, 843
+VIRSorter__21837_8_76_11_gene_5_gene_16-3660-11063-cat_6,ref|NC_029119.1| Staphylococcus phage SPbeta-like, complete genome,789,85.93, 835
+VIRSorter__21837_8_55_11-circular_gene_15_gene_112-14456-93825-cat_6,ref|NC_022749.1| Shigella phage SfIV, complete genome,768,90.89,1031

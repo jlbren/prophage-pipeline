@@ -3,10 +3,11 @@ import subprocess
 from glob import glob
 import os 
 # Input dir. Include wildcard to get all files.
-in_dir = 'urinary_bacteria_out/all_results/*'
+in_dir = 'urinary_bacteria_out2/all_results/*'
 # Local blast database. 
-database = '../Bact'
-
+database = '../Bact/Bact'
+# Num threads
+nt = 24
 in_files = glob(in_dir)
 for f in in_files:
     seqs = SeqIO.parse(f, 'fasta')
@@ -21,7 +22,7 @@ for f in in_files:
             '-db', database,
             '-outfmt', '10 qseqid stitle length pident bitscore',
             '-max_target_seqs', '1',
-	    '-num_threads', '24',
+	    '-num_threads', str(nt),
 	    ],
             stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, stderr = blast_cmd.communicate()
